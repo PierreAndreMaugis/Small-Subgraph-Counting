@@ -9,4 +9,4 @@ Each function has at the top a list of the rooted subgraph counted (presented as
 
 These function have not been fully tested (yet.)
 
-The companion paper can be found on arXiv:1701.00177. Please use the citaion on this page.
+ wThe companion paper can be found on arXiv:1701.00177. Please use the citaion on the arXiv page when you use this code.
